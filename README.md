@@ -39,12 +39,9 @@ Frontend -->
 Databases -->
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
 
-<Tools -->
-<img src="https://img.icons8.com/color/48/npm.png"/> 
+Tools -->
 <img src="https://img.icons8.com/color/48/figma--v1.png"/> 
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-
-
 <br>
 
 ## 📈 GitHub Stats
