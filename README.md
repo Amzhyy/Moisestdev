@@ -25,25 +25,24 @@
 
 <br>
 
-<!-- Frontend -->
+Frontend -->
 <img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
 <img src="https://img.icons8.com/color/48/css3.png"/> 
 <img src="https://img.icons8.com/color/48/javascript--v1.png"/> 
 
 
 
-<!-- Backend --> 
+ Backend --> 
 <img src="https://img.icons8.com/officel/48/php-logo.png"/> 
 
 
-<!-- Databases -->
+Databases -->
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/> 
 
-<!-- Tools -->
+<Tools -->
 <img src="https://img.icons8.com/color/48/npm.png"/> 
 <img src="https://img.icons8.com/color/48/figma--v1.png"/> 
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/justinmind/justinmind-original.svg" width="48" height="48" alt="Justinmind logo"/> 
 
 
 <br>
@@ -59,14 +58,7 @@
 
 <br>
 
-## 📊 Activity Graph
-
-<br>
-
-[![Moydev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moydev&theme=react-dark)](https://github.com/Moydev/github-readme-activity-graph)
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
