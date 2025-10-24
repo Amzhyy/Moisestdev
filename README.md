@@ -51,17 +51,6 @@ Databases -->
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moydev&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-[![Moydev GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moydev&theme=algolia)](https://github.com/Moydev/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moydev&theme=algolia)](https://github.com/Moydev/github-readme-stats)  
-[![Moydev Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moydev&theme=algolia)](https://github.com/Moydev/github-readme-stats)
 
-<br>
 
-(https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
