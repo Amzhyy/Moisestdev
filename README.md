@@ -1,14 +1,14 @@
 <div align="center" width="50">
-    <img alt="moydev.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="" src="./assets/oh hi there.png" width="300"/>
 </div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Moisés Torres</h1>
 
 ## 👨‍💻 About Me 🐱
 
-- 🏫 Currently studying Software Engineering at Universidad Autónoma de Nuevo León
-- 💻 Aspiring Front-End / Full-Stack Developer passionate about creating modern and efficient web applications
-- 🧠 Aspiring Software Engineer & Machine Learning Enthusiast
+-  Currently studying Software Engineering at Universidad Autónoma de Nuevo León
+- 
+-  Aspiring Software Engineer & Machine Learning Enthusiast
 
 <br>
 
